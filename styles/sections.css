@@ -128,3 +128,9 @@ aside{
   width: 488px;
   height: 280px;
 }
+
+#weekly-fashion{
+  p{
+    font: var(--h2);
+  }
+}
