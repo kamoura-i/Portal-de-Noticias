@@ -20,3 +20,19 @@
   border-inline: none;
   justify-content: space-between;
 }
+
+#primary {
+  align-items: center;
+  padding-block: 8px;
+}
+
+#primary div {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+#primary img {
+  width: 160px;
+  height: 32px;
+}

@@ -32,3 +32,10 @@
   font: var(--text-sm);
 }
 
+.text{
+  font: var(--text);
+}
+
+.text-span{
+  font: var(--text-span);
+}
